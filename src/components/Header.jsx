@@ -13,7 +13,6 @@ export default function Header() {
           <Button color="inherit" component={Link} to="/">Home</Button>
           <Button color="inherit" component={Link} to="/about">About</Button>
           <Button color="inherit" component={Link} to="/services">Services</Button>
-          <Button color="inherit" component={Link} to="/vision-mission">Vision</Button>
           <Button color="inherit" component={Link} to="/contact">Contact</Button>
         </Stack>
       </Toolbar>
